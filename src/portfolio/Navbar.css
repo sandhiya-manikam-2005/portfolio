@@ -1,0 +1,21 @@
+ul{
+    display: flex;
+    border: 2px solid black;
+    width: 50%;
+    justify-content: space-evenly;
+}
+li{
+    list-style: none;
+    background-color: yellow;
+    padding: 10px;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+}
+li:hover{
+    background-color: blueviolet;
+}
+.navbar{
+    margin-left: 50%;
+}

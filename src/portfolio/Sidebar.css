@@ -1,0 +1,17 @@
+h1{
+    font-size: 30px;
+    color: #000000;
+}
+p{
+    font-size: 24px;
+    color: #1F2937;
+}
+.Sidebar{
+    width: 20%;
+}
+img{
+    
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+}
